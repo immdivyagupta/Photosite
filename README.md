@@ -1,9 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
 
 Project Name : Project R1 - Simple PhotoSite in Ruby on Rails use SQLite database
 
